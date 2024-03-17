@@ -1,3 +1,3 @@
-# CS50B3
+# CS50B
 
 My CS50B submissions.
